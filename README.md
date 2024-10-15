@@ -10,8 +10,6 @@ Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to v
 
 I am a passionate software engineer who enjoys solving complex problems and improving coding skills through challenges. LeetCode has been a major platform for me to practice a wide range of data structures and algorithms.
 
-Feel free to explore the solutions provided below!
-
 ---
 
 ## 📢 Join My Telegram Channel
