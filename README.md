@@ -1,20 +1,21 @@
-# LeetCode Solutions Repository
+## 🤓 LeetCode Solutions Repository
 
 Welcome to my LeetCode Solutions repository! Here, you'll find my solutions to various LeetCode problems. I have been consistently practicing algorithms and problem-solving skills, and this repository showcases my progress and solutions.
 
-![LeetCode Profile](/image.png)
+<img src="./image.png" alt="LeetCode Profile" width="300" >
 
-## About Me
+---
+
+## 🫡 About Me
 
 I am a passionate software engineer who enjoys solving complex problems and improving coding skills through challenges. LeetCode has been a major platform for me to practice a wide range of data structures and algorithms.
 
 Feel free to explore the solutions provided below!
 
-## Contact Me
+---
 
-If you'd like to connect, feel free to reach out through:
+## 📢 Join My Telegram Channel
 
--   [LinkedIn](https://linkedin.com/in/your-linkedin)
--   [Email](mailto:your-email@example.com)
+Stay updated and join the conversation: [Telegram Channel](https://t.me/mensenvau)
 
-Thank you for visiting my repository, and I hope you find my solutions helpful!
+---
