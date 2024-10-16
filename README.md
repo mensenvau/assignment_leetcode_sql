@@ -12,8 +12,7 @@ I am a passionate software engineer who enjoys solving complex problems and impr
 
 ---
 
-## 📢 Join My Telegram Channel
+## 📢 Connect With Me
 
-Stay updated and join the conversation: [Telegram Channel](https://t.me/mensenvau)
+Stay in touch and follow my data science journey: [Telegram Channel](https://t.me/mensenvau)
 
----
